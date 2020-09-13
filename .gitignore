@@ -1,2 +1,4 @@
 .metadata
 *.jar
+Servers/
+RemoteSystemsTempFiles/
